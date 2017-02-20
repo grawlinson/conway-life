@@ -3,7 +3,6 @@
 #include <string.h>
 #include "matrix.h"
 #include "life.h"
-#include "patterns.h"
 
 /* RNG */
 #include <time.h>
